@@ -3,6 +3,8 @@
 A beginner-friendly yet industry-style data science project that analyzes climate data to uncover trends, detect anomalies, and forecast future temperature patterns.
 
 ---
+🚀 Live Project Demo:
+👉 https://climate-trend-analyzer-kv4nds6hhtrnbpvfuappkch.streamlit.app/
 
 ## 📌 Project Overview
 
